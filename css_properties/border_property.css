@@ -1,0 +1,32 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+}
+
+/* border property has 3 values. (1px, solid, red.)  */
+/* dive is the selector. Its an element selector because its selecting all of an element/tag. */
+
+img {
+    border: 10px groove orangered;
+    width: 100px;
+    height: auto;
+}
+
+.dogone {
+    border: 10px double orangered;
+    width: 100px;
+    height: auto;
+}
+
+.dogtwo {
+    border: 10px dashed orangered;
+    width: 100px;
+    height: auto;
+}
+
+.dogthree {
+    border: 10px dotted orangered;
+    width: 100px;
+    height: auto;
+}
