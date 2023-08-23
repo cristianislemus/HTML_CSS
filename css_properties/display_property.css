@@ -1,0 +1,41 @@
+div {
+    width:75px;
+    height: 100px;
+    border: 1px solid red;
+    border-radius: 100%;
+    display: inline-block;
+    
+}
+
+/* div is a block level element that will take up all width unless restrained by width value and always starts on a new line. */
+/* Span and img elements are inline level elements and will never start from a new line. they will only take up as much width as necesaary. */
+/* inline-block value for the display property will allow the element to function as a block element but will also not make the next same element to start on the next line, so this can let the element sit next to other elements. */
+/* display-none will not display the element. */
+
+img {
+    border: 10px groove orangered;
+    width: 100px;
+    height: auto;
+    border-radius: 100%;
+}
+
+.dogone {
+    border: 10px double orangered;
+    width: 100px;
+    height: auto;
+    border-radius: 100%;
+}
+
+.dogtwo {
+    border: 10px dashed orangered;
+    width: 100px;
+    height: auto;
+    border-radius: 100%;
+}
+
+.dogthree {
+    border: 10px dotted orangered;
+    width: 100px;
+    height: auto;
+    border-radius: 100%;
+}

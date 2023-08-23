@@ -9,7 +9,7 @@ div {
 }
 
 /* border property has 3 values. (1px, solid, red.)  */
-/* dive is the selector. Its an element selector because its selecting all of an element/tag. */
+/* div is the selector. Its an elemet selector because its selecting all of an element/tag. */
 
 img {
     border: 10px groove orangered;
