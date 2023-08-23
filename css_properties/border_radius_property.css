@@ -1,10 +1,10 @@
 div {
-    width: 200px;
-    height: 200px;
+    width:75px;
+    height: 100px;
     border: 1px solid red;
     border-radius: 100%;
     background-image: url(/tags_and_attributes/puppy.jpg);
-    background-size: cover;
+    background-size: 75px;
     background-repeat: no-repeat;
 }
 
