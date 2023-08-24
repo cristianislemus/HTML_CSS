@@ -11,9 +11,9 @@ img {
     border: 10px groove orangered;
     width: 100px;
     height: auto;
-    border-radius: 100%;
     padding: 10px;
     margin: 10px;
+    box-sizing: border-box;
 }
 
 .dogone {
@@ -36,3 +36,5 @@ img {
     height: auto;
     border-radius: 100%;
 }
+
+
