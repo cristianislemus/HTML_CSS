@@ -1,0 +1,9 @@
+div{
+    width: 400px;
+    height: 200px;
+    background-color: red;
+    border-radius: 50px;
+    border: 20px solid red;
+    background-image: url(https://www.akc.org/wp-content/uploads/2017/11/Siberian-Husky-standing-outdoors-in-the-winter.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;}
